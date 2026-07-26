@@ -3,7 +3,7 @@ title: "Paper Title Number 1"
 collection: publications
 category: manuscripts
 permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'Quantifying the robustness of quantum properties, such as entanglement, nonlocality, and coherence, is a fundamental task in quantum information science. Developing an accurate and efficient framework for evaluating robustness under various noise models is therefore important. In this work, we reformulate robustness as a collision-detection problem between two convex sets and solve it using Gilbert's algorithm. The proposed algorithm is adaptable to the robustness of various quantum properties and various noise sets.'
+excerpt: 'Quantifying the robustness of quantum properties, such as entanglement, nonlocality, and coherence, is a fundamental task in quantum information science. '
 date: 2009-10-01
 venue: 'Journal 1'
 slidesurl: 'https://academicpages.github.io/files/slides1.pdf'
