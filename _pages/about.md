@@ -7,9 +7,9 @@ redirect_from:
   - /about.html
 ---
 
-##**Test Title**\
+**Test Title**\
 This is a test text.
 
 
-##**Link sample**\
+**Link sample**\
 [IWQCVV](https://iwqcvv.org/)
