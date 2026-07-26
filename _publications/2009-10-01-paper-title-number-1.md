@@ -3,7 +3,7 @@ title: "Paper Title Number 1"
 collection: publications
 category: manuscripts
 permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'Quantifying entanglement in quantum systems is an important yet challenging task due to its NP-hard nature.In this work, we propose an efficient algorithm for evaluating distance-based entanglement measures.Our approach builds on Gilbert's algorithm for convex optimization, providing a reliable upper bound on the entanglement of a given arbitrary state.We demonstrate the effectiveness of our algorithm by applying it to various examples, such as calculating the squared Bures metric of entanglement as well as the relative entropy of entanglement for GHZ states, W states, Horodecki states, and chessboard states.These results demonstrate that our algorithm is a versatile and accurate tool that can quickly provide reliable upper bounds for entanglement measures.'
+excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
 date: 2009-10-01
 venue: 'Journal 1'
 slidesurl: 'https://academicpages.github.io/files/slides1.pdf'
