@@ -1,0 +1,15 @@
+---
+title: "Optimal error regions for quantum state estimation"
+collection: publications
+category: manuscripts
+permalink: /publication/2013-12-01-Optimal
+excerpt: 'We consider the implementation of a symmetric informationally complete probability-operator measurement (SIC POM) in the Hilbert space of a d-level system by a two-step measurement process: a diagonal-operator measurement with high-rank outcomes, followed by a rank-1 measurement in a basis chosen in accordance with the result of the first measurement. We find that any HeisenbergWeyl group-covariant SIC POM can be realized by such a sequence where the second measurement is simply a measurement in the Fourier basis, independent of the result of the first measurement. Furthermore, at least for the particular cases studied, of dimension 2, 3, 4, and 8, this scheme reveals an unexpected operational relation between mutually unbiased bases and SIC POMs; the former are used to construct the latter. As a laboratory application of the two-step measurement process, we propose feasible optical experiments that would realize SIC POMs in various dimensions.'
+date: 2013-12-01
+weight: 75
+venue: 'New Journal of Physics'
+biburl: 'https://CyberPardofelis.github.io/files/15.123026.bib'
+paperurl: 'https://CyberPardofelis.github.io/files/15.123026.pdf'
+citation: 'J shang, HK Ng, A Sehrawat, X Li, BG Englert. (2013). &quot;Optimal error regions for quantum state estimation.&quot; <i>New J. Phys.</i>. 15(12): 123026.'
+---
+
+The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
