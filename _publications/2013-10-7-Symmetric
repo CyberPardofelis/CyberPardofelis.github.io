@@ -1,0 +1,15 @@
+---
+title: "Symmetric Minimal Quantum Tomography and Optimal Error Regions"
+collection: publications
+category: manuscripts
+permalink: /publication/2013-10-7-Symmetric
+excerpt: 'This thesis comprises the study of two basic topics in quantum information science: symmetric minimal quantum tomography and optimal error regions. Part I of this thesis discusses the implementation of the symmetric informationally complete probability-operator measurement (SIC POM) in the finite-dimensional Hilbert space in terms of two successive measurements. We show that any Heisenberg-Weyl group-covariant SIC POM can be realized by such a sequence where the second measurement is simply a measurement in the Fourier basis. Furthermore, we study in particular such constructions of SIC POMs in dimensions 2, 3, 4, and 8. Surprisingly, this formulation reveals an operational relation between mutually unbiased bases (MUB) and SIC POMs. As a laboratory application, feasible optical experiments are proposed that would realize SIC POMs in various dimensions. Part II of this thesis presents a simple construction of optimal error regions for quantum state estimation. Any point estimator has to be supplemented with an error region that summarizes our uncertainty about the guess, here we show that the optimal choices for two types of error regions---the maximum-likelihood region, and the smallest credible region---are both concisely described as the set of all states for which the likelihood exceeds a threshold value, that is, a bounded-likelihood region. This surprisingly simple characterization permits concise reporting of the error regions even in high-dimensional problems.'
+date: 2013-10-07
+weight: 1
+venue: 'Centre for Quantum Technologies, National University of Singapore'
+biburl: 'https://CyberPardofelis.github.io/files/2013-10-7.bib'
+paperurl: 'https://CyberPardofelis.github.io/files/2013-10-7.pdf'
+citation: 'J Shang. (2013). &quot;Symmetric Minimal Quantum Tomography and Optimal Error Regions.&quot;'
+---
+
+The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
